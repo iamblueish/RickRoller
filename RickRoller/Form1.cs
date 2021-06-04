@@ -33,9 +33,9 @@ namespace RickRoller
                 Assets = new Assets()
                 {
                     LargeImageKey = $"wide",
-                    LargeImageText = "i will open litteraly any programm",
+                    LargeImageText = "i am dumb",
                     SmallImageKey = $"close",
-                    SmallImageText = $"developed by blueish.#8517"
+                    SmallImageText = $"developed by blueish."
                 }
             });
         }
