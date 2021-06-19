@@ -1,1 +1,1 @@
-shitties thing i ever did. i hate myself
+shittiest thing i ever did. i hate myself
